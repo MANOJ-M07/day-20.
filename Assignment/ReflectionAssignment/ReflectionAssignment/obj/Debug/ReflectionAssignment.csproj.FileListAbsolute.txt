@@ -1,0 +1,8 @@
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\bin\Debug\ReflectionAssignment.exe.config
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\bin\Debug\ReflectionAssignment.exe
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\bin\Debug\ReflectionAssignment.pdb
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\obj\Debug\ReflectionAssignment.csproj.AssemblyReference.cache
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\obj\Debug\ReflectionAssignment.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\obj\Debug\ReflectionAssignment.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\obj\Debug\ReflectionAssignment.exe
+D:\simplilearn\day-20\ReflectionAssignment\ReflectionAssignment\obj\Debug\ReflectionAssignment.pdb

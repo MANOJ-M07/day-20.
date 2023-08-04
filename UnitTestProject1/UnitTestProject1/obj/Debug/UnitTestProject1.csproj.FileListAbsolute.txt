@@ -1,0 +1,15 @@
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\simplilearn\day-20\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

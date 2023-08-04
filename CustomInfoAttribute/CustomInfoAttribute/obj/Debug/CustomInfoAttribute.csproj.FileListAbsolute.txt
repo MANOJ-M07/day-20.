@@ -1,0 +1,8 @@
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\bin\Debug\CustomInfoAttribute.exe.config
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\bin\Debug\CustomInfoAttribute.exe
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\bin\Debug\CustomInfoAttribute.pdb
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\obj\Debug\CustomInfoAttribute.csproj.AssemblyReference.cache
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\obj\Debug\CustomInfoAttribute.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\obj\Debug\CustomInfoAttribute.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\obj\Debug\CustomInfoAttribute.exe
+D:\simplilearn\day-20\CustomInfoAttribute\CustomInfoAttribute\obj\Debug\CustomInfoAttribute.pdb
